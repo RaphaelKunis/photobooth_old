@@ -1,3 +1,5 @@
+This is the original Photobooth README
+
 # photobooth+
 A Photobooth webinterface for Raspberry Pi and Windows, based on [photobooth](https://github.com/andreknieriem/photobooth) by Andre Rinas.
 
