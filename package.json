@@ -9,7 +9,7 @@
   "author": "",
   "license": "GPL",
   "dependencies": {
-    "bower": "1.7.9",
+    "bower": "1.8.8",
     "gulp": "3.9.1",
     "gulp-sass": "2.3.2"
   }
